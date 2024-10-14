@@ -1,1 +1,1 @@
-# -simple-utility-library
+# -string-library
