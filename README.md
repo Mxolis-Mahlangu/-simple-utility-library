@@ -1,1 +1,1 @@
-# -string-library
+# string-library
